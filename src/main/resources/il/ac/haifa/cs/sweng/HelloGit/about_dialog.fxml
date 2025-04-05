@@ -11,7 +11,7 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Our names are Itay and Aviv"
+		   text="Itay Stern"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
