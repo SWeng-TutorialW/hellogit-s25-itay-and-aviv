@@ -27,6 +27,15 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Itay Stern 327949517"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
 
 
 </VBox>
